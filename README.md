@@ -1,6 +1,6 @@
 # make-qrcode
 
-A cli tool for making qrcode and save image as PNG.
+A cli tool for making qrcode and save image as PNG, using an external web service.
 
 [![Deps](https://david-dm.org/modood/make-qrcode.svg)](https://david-dm.org/modood/make-qrcode) 
 [![npm](https://img.shields.io/npm/v/make-qrcode.svg)](https://www.npmjs.com/package/make-qrcode)
